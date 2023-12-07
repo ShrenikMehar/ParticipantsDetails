@@ -20,3 +20,4 @@
 | xyz   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
 | pqr   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
 | abcde   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
+| ghijk   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
