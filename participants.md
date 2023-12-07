@@ -17,4 +17,8 @@
 | slogo   | [slogo](https://github.com/slogo)     | slogo@gmail.com            |
 | lach   | [lach](https://github.com/lach)     | lach@gmail.com            |
 | lazar   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
+<<<<<<< HEAD
 | xyz   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
+=======
+| pqr   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
+>>>>>>> b6d40729907bcbe755356912dca0ccca784f55ce
