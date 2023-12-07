@@ -7,3 +7,4 @@
 | vik   | [vik](https://github.com/vik)     | vik@gmail.com            |
 | tobi   | [tobi](https://github.com/tobi)     | tobi@gmail.com            |
 | w2s   | [w2s](https://github.com/w2s)     | w2s@gmail.com            |
+| jj   | [jj](https://github.com/jj)     | jj@gmail.com            |
