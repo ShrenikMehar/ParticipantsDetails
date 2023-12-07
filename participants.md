@@ -13,3 +13,4 @@
 | sam   | [sam](https://github.com/sam)     | sam@gmail.com            |
 | rce   | [rce](https://github.com/rce)     | rce@gmail.com            |
 | gbills   | [nikeh15](https://github.com/bill)     | bill@gmail.com            |
+| jelly   | [jelly](https://github.com/jelly)     | jelly@gmail.com            |
