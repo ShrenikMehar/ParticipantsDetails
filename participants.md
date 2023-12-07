@@ -16,3 +16,7 @@
 | jelly   | [jelly](https://github.com/jelly)     | jelly@gmail.com            |
 | slogo   | [slogo](https://github.com/slogo)     | slogo@gmail.com            |
 | lach   | [lach](https://github.com/lach)     | lach@gmail.com            |
+<<<<<<< HEAD
+=======
+| lazar   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
+>>>>>>> 0e1ca89e1d80ccaab803ee48a83eb816fbb0fe38
