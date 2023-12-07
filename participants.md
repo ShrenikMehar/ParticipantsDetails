@@ -8,3 +8,4 @@
 | tobi   | [tobi](https://github.com/tobi)     | tobi@gmail.com            |
 | w2s   | [w2s](https://github.com/w2s)     | w2s@gmail.com            |
 | jj   | [jj](https://github.com/jj)     | jj@gmail.com            |
+| behz   | [behz](https://github.com/behz)     | behz@gmail.com            |
