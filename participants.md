@@ -13,8 +13,5 @@
 | sam   | [sam](https://github.com/sam)     | sam@gmail.com            |
 | rce   | [rce](https://github.com/rce)     | rce@gmail.com            |
 | gbills   | [nikeh15](https://github.com/bill)     | bill@gmail.com            |
-<<<<<<< HEAD
 | jelly   | [jelly](https://github.com/jelly)     | jelly@gmail.com            |
-=======
 | slogo   | [slogo](https://github.com/slogo)     | slogo@gmail.com            |
->>>>>>> 3bbf300dd54014648caa5e2a5f53770e1dc670c7
