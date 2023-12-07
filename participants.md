@@ -6,3 +6,4 @@
 | Joshua Bradley   | [Josh](https://github.com/zerkaa)     | zerkaahd@gmail.com            |
 | vik   | [vik](https://github.com/vik)     | vik@gmail.com            |
 | tobi   | [tobi](https://github.com/tobi)     | tobi@gmail.com            |
+| jj   | [jj](https://github.com/jj)     | jj@gmail.com            |
