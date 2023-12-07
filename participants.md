@@ -15,3 +15,4 @@
 | gbills   | [nikeh15](https://github.com/bill)     | bill@gmail.com            |
 | jelly   | [jelly](https://github.com/jelly)     | jelly@gmail.com            |
 | slogo   | [slogo](https://github.com/slogo)     | slogo@gmail.com            |
+| lach   | [lach](https://github.com/lach)     | lach@gmail.com            |
