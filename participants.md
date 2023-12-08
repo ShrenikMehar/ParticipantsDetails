@@ -28,3 +28,4 @@
 | tejas   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
 | vedant   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
 | yash   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
+| final 1   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
