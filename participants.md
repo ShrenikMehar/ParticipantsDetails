@@ -29,3 +29,4 @@
 | vedant   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
 | yash   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
 | final 1   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
+| final 2   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
