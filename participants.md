@@ -23,3 +23,4 @@
 | ghijk   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
 | xyzzz   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
 | adnan   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
+| shrenik   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
