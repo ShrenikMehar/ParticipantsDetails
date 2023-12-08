@@ -30,4 +30,8 @@
 | yash   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
 | final 1   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
 | final 2   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
+<<<<<<< HEAD
 | final 4   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
+=======
+| final 3   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
+>>>>>>> f0b8bbabda3eef612e236277d3f967b968a64b56
