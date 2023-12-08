@@ -35,3 +35,4 @@
 | final 5   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
 | final 6b   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
 | final 6a   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
+| final 7b   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
