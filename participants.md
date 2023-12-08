@@ -26,3 +26,4 @@
 | shrenik   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
 | zode    | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
 | tejas   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
+| vedant   | [lazar](https://github.com/lazar)     | lazar@gmail.com            |
